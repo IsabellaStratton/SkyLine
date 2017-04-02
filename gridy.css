@@ -12,6 +12,11 @@ div.date img {
 	width: 97vw;
 	
 }
+video {
+    width: 100%;
+    height: auto;
+}
+
 div.flex-container img{
 	width: 97vw;
 	
